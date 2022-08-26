@@ -1,0 +1,18 @@
+---
+title: "About Me"
+image: profile pic.jpeg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/lgibson7
+    - icon: github
+      text: Github
+      href: https://github.com/lgibson7
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Lydz_is_Poppin
+---
+
+Hey There! I'm Lydia Gibson (she/her), a second year M.S. Statistics student at California State University East Bay in Hayward, CA. Welcome to my blog *Once Upon a Time Series*! I'm a career changer with previous experience in state and local government as well as retail customer service. I received my B.S. in Economics from University at Albany, State University of New York in May 2011 but I've also dabbled in accounting and fashion design. Join me as I share my experience as a non-traditional grad student and all the adventures that come with it.

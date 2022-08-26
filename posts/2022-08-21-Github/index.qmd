@@ -1,0 +1,62 @@
+---
+title: "A Student's Guide to GitHub: Why I use GitHub and think you should too"
+author: "Lydia Gibson"
+date: "2022-08-21"
+categories: [GitHub, R4DS, Interviews, Projects]
+image: "Thumbnail.png"
+---
+
+My thoughts on why all statistics students should create a GitHub portfolio.
+
+![](Profile.png)
+
+## The purpose of this blog post is not to teach you how to use GitHub or integrate it with the RStudio IDE. Instead, I want to discusss my experiences with GitHub, explain why you should create a profile, and share a few tips on how to get started. 
+
+
+### How did I get started using GitHub?
+
+I was first introduced to GitHub through the [R4DS Online Learning Community](https://www.rfordatasci.com/), which I just call R4DS for short. At any given time, R4DS has several R related book clubs running that allow individuals to get together weekly to discuss books such as [R for Data Science](https://r4ds.had.co.nz/) and create notes that are hosted on GitHub pages. As a member of the R4DS ggplot2 book club, I helped to create the [ggplot2 Book Club shared notes](https://r4ds.github.io/bookclub-ggplot2/) and even did several presentations which can be found on the R4DS YouTube channel [ggplot2 Book Club playlist](https://www.youtube.com/playlist?list=PL3x6DOfs2NGhUxGvu46tXQtBl0qyTcDet).
+
+![](ggplot2.JPG)
+
+In a old [LinkedIn post](https://www.linkedin.com/posts/lgibson7_community-grateful-activity-6891598545288331264-wGeJ?utm_source=share&utm_medium=member_desktop), I reflected on my progress learning R and Github this past school year. While learning how to use GitHub was by no stretch of the imagination an easy task, with lots of practice and support from my professors and the R4DS mentors, I feel like I've gotten the hang of it, although I do still have some issues and a fair bit to learn, as I've lamented in a [recent tweet](https://twitter.com/Lydz_is_Poppin/status/1559943965205336064).
+
+
+### Why you should create a GitHub profile?
+
+Having a GitHub profile has been immeasurably beneficial to me this past year. Some ways having a GitHub can work to your benefit are:
+
+- *Interviews*: During the interview process with Intel, I was able to direct the telephone interviewer to the slide presentation I did for my Probability and Statistics Theory group project on the [Derivation of the Moment Generating Function of the Binomial Distribution](https://github.com/lgibson7/STAT620_QuizII_Group_Presentation).
+
+- *Group Projects*: For our Linear and Logistic Regression final project, my classmates [Sara Hatter](https://github.com/shatter0), [Ken Vu](https://github.com/Ken-Vu) and I used GitHub to collaborate on our slide presentation and final paper about [Gender Wage Inequality in STEM](https://github.com/lgibson7/Gender-Wage-Inequality-in-STEM).
+
+- *Just for the sake of learning*: I genuinely like learning new things and if you do too, it could be something fun to do with your schoolmates and friends. 
+
+![](Commitment.png)
+
+### Where do you start?
+
+Navigate to <https://education.github.com/>  and click the down arrow next to **Student** in the navigation bar and select **Student Programs**. On the next page click the blue box that says **Get benefits for students** which will prompt you to either sign into your github account or create a new account. After choosing a username,  password and answering the recaptcha you will receive an email with a verification code which you must enter on the next screen. Once you've created your GitHub account, complete verification of your student status before you can receive GitHub student benefits.
+
+![](StudentBennies.png)
+
+
+### Tips, Tricks and Resources
+
+In settings, you can change your GitHub profile picture, write a short bio, link any personal websites such as a LinkedIn account or blog, and add your twitter handle.
+
+![](Settings.png)
+
+Want to make your GitHub profile really stand out from the rest? Be sure to add a
+[README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+
+![](README.png)
+
+For information about integrating GitHub with the RStudio IDE check out the [Happy Git and GitHub for the useR](https://happygitwithr.com/) book by [Jenny Byran](https://github.com/jennybc), the [Happier Version Control with Git and GitHub](https://bcjaeger.github.io/seminar-git/#1) seminar presentation by [Byron C. Jaeger](https://github.com/bcjaeger), or the [RStudio and Git](https://www.youtube.com/watch?v=KjLycV1IWqc&t=8s) YouTube tutorial by [economicurtis](https://www.youtube.com/c/economicurtis).
+
+For more information on building a data science portfolio on GitHub check out the YouTube tutorial [Building your Data Science portfolio using GitHub](https://www.youtube.com/watch?v=-NMliYUeC9s) by [AI Inclusive](https://www.ai-inclusive.org/) or for general guidance on data science portfolios listen to the [Build a Career in Data Science](https://open.spotify.com/show/78Nft51TuU3X2urEKfCuys) podcast episode [Chapter 4: Build a Portfolio](https://open.spotify.com/episode/68O67fT92VfSXaPxV8r6f7).
+
+
+
+
+
